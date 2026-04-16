@@ -1,0 +1,379 @@
+{
+  "concept": {
+    "companyName": "Syntax Orbit",
+    "tagline": "Transformeer uw bedrijf met innovatieve digitale oplossingen",
+    "sector": "IT Solutions & Digitale Transformatie",
+    "colors": {
+      "primary": "#3B82F6",
+      "secondary": "#1E40AF",
+      "accent": "#3B82F6",
+      "background": "#FAFBFC",
+      "text": "#1F2937"
+    },
+    "styleOverrides": {},
+    "contact": {
+      "phone": "+31 20 794 5638",
+      "email": "info@syntaxorbit.com",
+      "address": "Herengracht 124, 1015 BT Amsterdam"
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "https://linkedin.com/company/syntax-orbit",
+      "youtube": ""
+    },
+    "heroTitle": "Digitale transformatie die écht werkt",
+    "heroSubtitle": "Wij helpen moderne bedrijven groeien door innovatieve webdevelopment, slimme digitale branding en datagestuurde groeistrategieën. Van concept tot lancering, wij maken uw digitale ambities werkelijkheid.",
+    "heroBadge": "IT Solutions Experts",
+    "heroButtonText": "Neem contact op",
+    "uspCards": [
+      {
+        "icon": "Zap",
+        "title": "Snelle Implementatie",
+        "description": "Van strategie tot live platform in recordtijd, zonder kwaliteitsverlies"
+      },
+      {
+        "icon": "Target",
+        "title": "Resultaatgericht",
+        "description": "Elke oplossing is gericht op meetbare groei en ROI voor uw bedrijf"
+      },
+      {
+        "icon": "Users",
+        "title": "Persoonlijke Aanpak",
+        "description": "Dedicated team dat uw bedrijf begrijpt en meedenkt in elke fase"
+      }
+    ],
+    "about": {
+      "title": "Uw partner in digitale groei",
+      "text": "Bij Syntax Orbit combineren we technische expertise met strategisch inzicht om bedrijven te helpen floreren in het digitale tijdperk. Ons team van ervaren developers, designers en strategisten werkt nauw samen met elke klant om op maat gemaakte oplossingen te leveren.\n\nWe geloven in transparante communicatie, agile werkwijzen en duurzame partnerships. Of het nu gaat om een complete website, een complexe webapplicatie of een integrale digitale strategie - wij zorgen ervoor dat technologie ten dienste staat van uw bedrijfsdoelen.",
+      "yearsExperience": "8",
+      "checklistItems": [
+        "Meer dan 200 succesvolle projecten opgeleverd",
+        "Gemiddeld 40% groei in online conversies",
+        "24/7 support en continue optimalisatie"
+      ]
+    },
+    "partners": [
+      "Microsoft Azure",
+      "Google Cloud",
+      "Shopify Plus",
+      "HubSpot",
+      "Salesforce",
+      "AWS Solutions"
+    ],
+    "uniqueFeatures": {
+      "sectionTitle": "Waarom kiezen voor Syntax Orbit",
+      "sectionText": "Wij onderscheiden ons door onze unieke combinatie van technische diepgang, strategisch denken en persoonlijke betrokkenheid bij elk project.",
+      "items": [
+        {
+          "icon": "Lightbulb",
+          "title": "Innovatieve Technologie",
+          "description": "Wij werken met de nieuwste frameworks en tools om toekomstbestendige oplossingen te bouwen"
+        },
+        {
+          "icon": "BarChart",
+          "title": "Data-Driven Aanpak",
+          "description": "Alle beslissingen worden ondersteund door uitgebreide data-analyse en gebruiksinzichten"
+        },
+        {
+          "icon": "Shield",
+          "title": "Enterprise Security",
+          "description": "Hoogste beveiligingsstandaarden en compliance voor zakelijke toepassingen"
+        },
+        {
+          "icon": "Settings",
+          "title": "Agile Development",
+          "description": "Flexibele ontwikkeling met regelmatige updates en snelle aanpassingsmogelijkheden"
+        }
+      ]
+    },
+    "services": [
+      {
+        "name": "Web Development",
+        "description": "Op maat gemaakte websites en webapplicaties gebouwd met moderne frameworks. Van corporate websites tot complexe SaaS platformen, wij leveren schaalbare en gebruiksvriendelijke oplossingen die perfect aansluiten bij uw bedrijfsprocessen.",
+        "imagePrompt": "Modern web developer working on multiple monitors displaying clean code interfaces and responsive website designs, professional office environment with natural lighting, showing React components and database schemas on screens"
+      },
+      {
+        "name": "Digitale Branding",
+        "description": "Complete visuele identiteit en digitale brandstrategie die uw bedrijf onderscheidt. Van logo ontwerp tot uitgebreide brandguidelines, wij zorgen voor consistente en impactvolle communicatie across alle digitale kanalen.",
+        "imagePrompt": "Creative design studio workspace with brand identity materials spread across desk, color palettes, typography samples, logo variations, mood boards, modern clean aesthetic with soft lighting and professional photography equipment"
+      },
+      {
+        "name": "Product Launch",
+        "description": "End-to-end begeleiding bij het lanceren van nieuwe digitale producten. Van marktonderzoek tot go-to-market strategie, wij zorgen ervoor dat uw product succesvol de markt betreedt met maximale impact en gebruikersadoptie.",
+        "imagePrompt": "Professional product launch presentation setup with large screens showing analytics dashboards, market research data, launch timeline graphics, modern conference room with sleek furniture and ambient lighting, team collaboration atmosphere"
+      },
+      {
+        "name": "Growth Strategy",
+        "description": "Datagestuurde groeistrategieën die uw digitale aanwezigheid en conversies optimaliseren. Through comprehensive analytics, SEO optimization en conversion rate optimization helpen wij uw business doelen te realiseren en te overtreffen.",
+        "imagePrompt": "Strategic planning session with growth metrics displayed on wall-mounted monitors, conversion funnel diagrams, SEO performance charts, team members analyzing data around modern conference table with laptops and notepads"
+      },
+      {
+        "name": "E-commerce Solutions",
+        "description": "Krachtige online shops en marketplace integraties die verkoop stimuleren. Van Shopify Plus implementaties tot custom e-commerce platformen, wij bouwen oplossingen die conversie maximaliseren en operations vereenvoudigen.",
+        "imagePrompt": "Modern e-commerce dashboard interface showing sales analytics, inventory management systems, payment processing screens, clean minimalist office setup with multiple monitors displaying shopping cart flows and product catalogs"
+      },
+      {
+        "name": "API Integraties",
+        "description": "Naadloze koppelingen tussen uw bestaande systemen en nieuwe digitale tools. Wij ontwikkelen robuuste API integraties die workflows automatiseren, data synchroniseren en de efficiency van uw bedrijfsprocessen drastisch verbeteren.",
+        "imagePrompt": "Technical workspace showing API documentation on screens, system architecture diagrams, database connection flows, developer environment with multiple terminals, clean modern office with professional lighting and organized cables"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "ClipboardCheck",
+        "title": "Strategie & Planning",
+        "description": "Uitgebreide analyse van uw bedrijfsdoelen, doelgroep en technische requirements om de optimale oplossing te definiëren"
+      },
+      {
+        "icon": "Settings",
+        "title": "Development & Design",
+        "description": "Agile ontwikkeling met regelmatige check-ins, waarbij we uw feedback continu verwerken in het eindproduct"
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Testing & Launch",
+        "description": "Uitgebreide kwaliteitscontrole, performance optimalisatie en een soepele go-live met minimal downtime"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Optimalisatie & Groei",
+        "description": "Continue monitoring, A/B testing en data-analyse om prestaties te maximaliseren en groei te realiseren"
+      }
+    ],
+    "stepsTitle": "Ons bewezen proces",
+    "stepsText": "Van eerste gesprek tot succesvolle lancering: wij hanteren een gestructureerde aanpak die zorgt voor optimale resultaten binnen budget en planning.",
+    "projects": [
+      {
+        "name": "TechCorp Dashboard Platform",
+        "date": "december 2024",
+        "location": "Amsterdam",
+        "imagePrompt": "Sleek corporate dashboard interface displaying real-time business analytics, clean data visualization charts, modern UI design with blue accent colors, professional office environment with multiple monitors showing KPI metrics"
+      },
+      {
+        "name": "GreenEnergy E-commerce",
+        "date": "oktober 2024",
+        "location": "Rotterdam",
+        "imagePrompt": "Modern e-commerce website for sustainable energy products, clean product catalog layouts, green color scheme, solar panel imagery, shopping cart interface with payment processing, professional photography of renewable energy solutions"
+      },
+      {
+        "name": "StartupHub SaaS Platform",
+        "date": "september 2024",
+        "location": "Utrecht",
+        "imagePrompt": "Innovative SaaS platform interface for startup management, project collaboration tools, user-friendly navigation, modern web application design with clean typography, dashboard showing startup metrics and progress tracking"
+      },
+      {
+        "name": "FinanceFlow Mobile App",
+        "date": "augustus 2024",
+        "location": "Den Haag",
+        "imagePrompt": "Professional financial mobile application interface, banking dashboard, transaction history, budget planning tools, secure payment features, clean modern UI design with financial charts and graphs, smartphone mockups"
+      },
+      {
+        "name": "MedTech Portal",
+        "date": "juli 2024",
+        "location": "Eindhoven",
+        "imagePrompt": "Healthcare technology portal interface, medical data visualization, patient management system, clean clinical design aesthetic, secure login interface, modern medical facility background with technology integration"
+      },
+      {
+        "name": "EduPlatform Learning Hub",
+        "date": "juni 2024",
+        "location": "Groningen",
+        "imagePrompt": "Educational platform interface with course management system, interactive learning modules, student progress tracking, modern classroom technology, clean educational design with engaging visual elements and learning analytics"
+      }
+    ],
+    "blogPosts": [
+      {
+        "title": "De Toekomst van Web Development in 2025",
+        "excerpt": "Ontdek welke technologieën en trends de webdevelopment industrie gaan vormgeven. Van AI-gedreven development tot nieuwe frontend frameworks, wij bespreken wat belangrijk wordt voor moderne bedrijven.",
+        "imagePrompt": "Futuristic web development workspace with holographic code displays, AI assistance interfaces, modern programming environment with multiple screens showing next-generation web technologies, clean tech aesthetic with blue lighting"
+      },
+      {
+        "title": "ROI Maximaliseren met Digitale Transformatie",
+        "excerpt": "Praktische tips om het rendement van uw digitale investeringen te verhogen. Wij delen concrete strategieën en cases studies van bedrijven die succesvol hun digitale transformatie hebben uitgevoerd.",
+        "imagePrompt": "Business analytics dashboard showing ROI metrics and digital transformation results, professional office setting with growth charts, conversion data visualization, clean modern workspace with financial performance indicators"
+      },
+      {
+        "title": "E-commerce Trends: Wat Werkt in 2025",
+        "excerpt": "De nieuwste ontwikkelingen in online retail en hoe u uw webshop optimaliseert voor maximale conversie. Van personalisatie tot nieuwe betaalmethoden, alle trends op een rij.",
+        "imagePrompt": "Modern e-commerce interface showcasing latest trends, mobile-first design, personalized shopping experience, advanced payment options, clean product displays with conversion optimization elements and shopping analytics"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Sandra van der Berg",
+        "company": "TechCorp Solutions",
+        "quote": "Syntax Orbit heeft ons dashboard platform volledig getransformeerd. De nieuwe interface is niet alleen gebruiksvriendelijker, maar heeft ook onze operationele efficiency met 35% verhoogd.",
+        "rating": 5
+      },
+      {
+        "name": "Marco Hendriks",
+        "company": "GreenEnergy Nederland",
+        "quote": "Fantastische samenwerking vanaf dag één. Het team begrijpt onze sector en heeft een webshop opgeleverd die onze online verkopen heeft verdubbeld binnen drie maanden.",
+        "rating": 5
+      },
+      {
+        "name": "Lisa Vermeulen",
+        "company": "StartupHub Amsterdam",
+        "quote": "Onze SaaS platform werd exact op tijd opgeleverd en overtrof al onze verwachtingen. De technische kwaliteit en gebruikerservaring zijn van topniveau.",
+        "rating": 5
+      },
+      {
+        "name": "Tom de Vries",
+        "company": "FinanceFlow",
+        "quote": "Syntax Orbit heeft niet alleen onze app ontwikkeld, maar ook meegedacht over de strategie. Hun expertise in zowel techniek als business is uniek in de markt.",
+        "rating": 5
+      },
+      {
+        "name": "Anouk Bakker",
+        "company": "MedTech Innovations",
+        "quote": "Professioneel, betrouwbaar en innovatief. Het team heeft onze complexe requirements perfect vertaald naar een werkende oplossing die voldoet aan alle compliance eisen.",
+        "rating": 5
+      }
+    ],
+    "ctaTitle": "Klaar om uw digitale transformatie te starten?",
+    "ctaText": "Laten we samen ontdekken hoe wij uw bedrijf kunnen helpen groeien met de juiste digitale oplossingen. Neem contact op voor een vrijblijvend gesprek.",
+    "ctaButtonText": "Plan een gesprek",
+    "footerTagline": "Uw partner in digitale innovatie en groei",
+    "footerLinks": [
+      {
+        "label": "Privacy Policy",
+        "href": "#"
+      },
+      {
+        "label": "Algemene Voorwaarden",
+        "href": "#"
+      },
+      {
+        "label": "Cookie Policy",
+        "href": "#"
+      }
+    ],
+    "companyInfo": {
+      "kvk": "85647321",
+      "btw": "NL864732198B01",
+      "iban": "",
+      "whatsappNumber": "+31 6 1234 5678"
+    },
+    "seoTitle": "Syntax Orbit - IT Solutions & Digitale Transformatie Amsterdam",
+    "seoDescription": "Professionele webdevelopment, digitale branding en groeistrategieën voor moderne bedrijven. Syntax Orbit helpt u succesvol digitaal transformeren.",
+    "pages": [
+      {
+        "name": "Home",
+        "slug": "/"
+      },
+      {
+        "name": "Diensten",
+        "slug": "/diensten"
+      },
+      {
+        "name": "Projecten",
+        "slug": "/projecten"
+      },
+      {
+        "name": "Over ons",
+        "slug": "/over-ons"
+      },
+      {
+        "name": "Contact",
+        "slug": "/contact"
+      }
+    ],
+    "diensten": {
+      "heroTitle": "Diensten",
+      "heroText": "Ontdek onze uitgebreide range aan IT solutions en digitale services die uw bedrijf naar een hoger niveau tillen.",
+      "sectionTitle": "Wat we voor u kunnen betekenen",
+      "sectionText": "Van webdevelopment tot complete digitale transformatie, wij bieden op maat gemaakte oplossingen die aansluiten bij uw specifieke bedrijfsdoelen en uitdagingen.",
+      "uspTitle": "Onze werkwijze",
+      "uspText": "Bij elke dienst hanteren wij dezelfde hoogwaardige standaarden: persoonlijke aandacht, transparante communicatie en focus op meetbare resultaten. Ons ervaren team combineert technische expertise met strategisch inzicht om duurzame oplossingen te leveren.\n\nWe werken agile, denken proactief mee en zorgen ervoor dat u altijd op de hoogte bent van de voortgang. Kwaliteit staat voorop, maar we vergeten daarbij nooit de praktische haalbaarheid en uw budget.",
+      "uspChecklist": [
+        "Expertise",
+        "Kwaliteit",
+        "Ervaring"
+      ]
+    },
+    "projecten": {
+      "heroTitle": "Projecten",
+      "heroText": "Bekijk onze recente projecten en ontdek hoe wij bedrijven helpen met innovatieve digitale oplossingen.",
+      "gridTitle": "Onze succesvolle realisaties",
+      "gridText": "Van start-ups tot enterprise organisaties, elk project is uniek en vraagt om een specifieke aanpak. Hier een selectie van onze meest recente werk."
+    },
+    "overOns": {
+      "heroTitle": "Over ons",
+      "heroText": "Leer het team kennen dat uw digitale transformatie tot een succes maakt.",
+      "storyTitle": "Ons verhaal",
+      "storyText": "Syntax Orbit werd opgericht vanuit de overtuiging dat technologie bedrijven écht kan helpen groeien - als het maar op de juiste manier wordt ingezet. Ons team bestaat uit ervaren developers, designers en strategisten die allemaal één ding gemeen hebben: passie voor innovatieve oplossingen die werken.\n\nWe hebben de afgelopen jaren meer dan 200 projecten succesvol opgeleverd voor bedrijven variërend van ambitieuze start-ups tot gevestigde multinationals. Onze aanpak is altijd persoonlijk: we nemen de tijd om uw business te begrijpen en vertalen die kennis naar digitale oplossingen die echt impact maken.\n\nWat ons onderscheidt is onze combinatie van technische diepgang en strategisch denken. We bouwen niet alleen mooie websites of apps, maar creëren digitale ecosystemen die uw bedrijfsdoelen ondersteunen en meetbare groei realiseren."
+    },
+    "contactPage": {
+      "heroTitle": "Contact",
+      "heroText": "Neem contact op voor een vrijblijvend gesprek over uw digitale uitdagingen en ambities.",
+      "detailsTitle": "We staan voor u klaar",
+      "detailsText": "Of het nu gaat om een concrete vraag over onze diensten, een offerte voor uw project, of gewoon een verkennend gesprek - ons team staat altijd voor u klaar.",
+      "faqTitle": "Veelgestelde vragen",
+      "faqText": "Hier vindt u antwoorden op de meest gestelde vragen over onze diensten en werkwijze.",
+      "faq": [
+        {
+          "question": "Hoe lang duurt een gemiddeld webdevelopment project?",
+          "answer": "De doorlooptijd hangt af van de complexiteit van het project. Een corporate website duurt meestal 4-8 weken, terwijl complexere webapplicaties 3-6 maanden kunnen duren. We maken altijd een gedetailleerde planning vooraf."
+        },
+        {
+          "question": "Bieden jullie ook onderhoud na oplevering?",
+          "answer": "Ja, we bieden verschillende onderhoudscontracten aan. Van basis hosting en updates tot uitgebreide performance monitoring en doorontwikkeling. We blijven graag uw digitale partner na de lancering."
+        },
+        {
+          "question": "Kunnen jullie ook bestaande systemen koppelen?",
+          "answer": "Absoluut. API integraties en systeemkoppelingen zijn een van onze specialiteiten. We kunnen vrijwel elk bestaand systeem integreren met nieuwe digitale oplossingen om workflows te optimaliseren."
+        },
+        {
+          "question": "Hoe zit het met de kosten van een project?",
+          "answer": "Elke klant is uniek, dus we maken altijd een op maat gemaakte offerte. Na een intake gesprek kunnen we een gedetailleerde kostenraming geven. We werken transparant zonder verborgen kosten."
+        },
+        {
+          "question": "Werken jullie ook met bedrijven buiten Amsterdam?",
+          "answer": "Ja, we werken met klanten door heel Nederland en daarbuiten. Door onze digitale werkwijze en ervaring met remote samenwerking kunnen we effectief op afstand opereren terwijl we de persoonlijke touch behouden."
+        }
+      ]
+    },
+    "imagePrompts": {
+      "hero": "Modern technology workspace with clean minimalist design, multiple monitors displaying code and digital interfaces, soft ambient lighting, collaborative team environment, futuristic tech elements, professional photography with depth of field, blue and white color scheme",
+      "about": "Professional IT team collaborating in modern office space, diverse group working on laptops and whiteboards, clean contemporary interior design, natural lighting through large windows, technology equipment visible, collaborative atmosphere with focus on innovation",
+      "uniqueBg": "Abstract digital technology background with circuit board patterns, flowing data streams, network connections, dark blue gradient overlay, futuristic tech aesthetic, soft glowing elements, professional commercial photography style with depth and dimension",
+      "stepsBg": "Clean modern office conference room with project timeline displayed on wall screens, collaborative workspace with sticky notes and planning materials, natural lighting, professional business environment, organized workflow visualization, contemporary interior design",
+      "ctaBg": "Futuristic office environment with glass walls, modern technology setup, city skyline visible through windows, professional lighting, clean contemporary design, business meeting space with advanced digital displays, inspiring workspace atmosphere",
+      "dienstenHero": "Professional IT services workplace showcasing various digital solutions, multiple workstations with different technology projects, clean organized environment, modern equipment and displays, collaborative team atmosphere, innovation-focused setting",
+      "dienstenUsp": "Modern technology consulting environment, strategy planning session with digital boards, clean professional workspace, business analytics displayed on screens, collaborative team meeting, contemporary office design with tech focus",
+      "projectenHero": "Portfolio showcase environment with multiple project displays, digital gallery setup, modern presentation space, clean minimalist design, professional lighting highlighting completed work, technology project demonstrations, contemporary exhibition style",
+      "overOnsHero": "Professional team portrait setting in modern office environment, clean contemporary workspace, natural lighting, collaborative atmosphere, technology equipment visible, approachable business environment, professional photography composition",
+      "overOnsStory": "Company culture workspace showing team collaboration, modern office interior, open floor plan with meeting areas, technology displays, creative work environment, professional yet approachable atmosphere, natural lighting and clean design",
+      "contactHero": "Modern business communication setup, professional office reception area, clean minimalist design, comfortable meeting spaces, technology integration for client consultation, welcoming professional environment, contemporary interior architecture"
+    }
+  },
+  "logoUrl": "data:image/png;base64,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",
+  "images": {
+    "hero": "https://images.pexels.com/photos/159299/graphic-design-studio-tracfone-programming-html-159299.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "about": "https://images.pexels.com/photos/3931499/pexels-photo-3931499.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "unique-bg": "https://images.pexels.com/photos/12537427/pexels-photo-12537427.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "steps-bg": "https://images.pexels.com/photos/15543040/pexels-photo-15543040.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "cta-bg": "https://images.pexels.com/photos/260994/pexels-photo-260994.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "diensten-hero": "https://images.pexels.com/photos/326512/pexels-photo-326512.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "diensten-usp": "https://images.pexels.com/photos/5716013/pexels-photo-5716013.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "projecten-hero": "https://images.pexels.com/photos/15717262/pexels-photo-15717262.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "over-ons-hero": "https://images.pexels.com/photos/7065/space-desk-office-hero-7065.jpg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "over-ons-story": "https://images.pexels.com/photos/6805154/pexels-photo-6805154.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "contact-hero": "https://images.pexels.com/photos/9300737/pexels-photo-9300737.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-0": "https://images.pexels.com/photos/16129703/pexels-photo-16129703.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-1": "https://images.pexels.com/photos/6580001/pexels-photo-6580001.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-2": "https://images.pexels.com/photos/577210/pexels-photo-577210.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-3": "https://images.pexels.com/photos/6476782/pexels-photo-6476782.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-4": "https://images.pexels.com/photos/7190944/pexels-photo-7190944.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "service-5": "https://images.pexels.com/photos/36497969/pexels-photo-36497969.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-0": "https://images.pexels.com/photos/3861957/pexels-photo-3861957.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-1": "https://images.pexels.com/photos/18316987/pexels-photo-18316987.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-2": "https://images.pexels.com/photos/16027824/pexels-photo-16027824.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-3": "https://images.pexels.com/photos/32642489/pexels-photo-32642489.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-4": "https://images.pexels.com/photos/8413332/pexels-photo-8413332.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "project-5": "https://images.pexels.com/photos/7743260/pexels-photo-7743260.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "blog-0": "https://images.pexels.com/photos/159299/graphic-design-studio-tracfone-programming-html-159299.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "blog-1": "https://images.pexels.com/photos/97080/pexels-photo-97080.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+    "blog-2": "https://images.pexels.com/photos/29502359/pexels-photo-29502359.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200"
+  }
+}
